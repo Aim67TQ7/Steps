@@ -1,0 +1,5 @@
+Starting Z_STEP4.bat 
+Fri 08/30/2024 20:23:17.34 - Script started. 
+Fri 08/30/2024 20:23:17.35 - Running step 1: Example command 
+Step 1 executed successfully. 
+Fri 08/30/2024 20:23:17.37 - Step 1 completed. 
